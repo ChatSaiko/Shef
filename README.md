@@ -36,7 +36,7 @@
 
 ### Description
 Shef is an android app created with react native that uses the [mealdb api](https://www.themealdb.com/api.php) to show users recipes in a nice way.
-the user can see all his recipes, filter them by name,area or origin, see a recipe with all the details such as preparation mode, ingredients, tags etc...
+the user can see all it's  recipes, filter them by name,area or origin, see a recipe with all the details such as how to prepare, ingredients, tags etc...
 or  he can also choose to see a random recipe. 
 ### Objective
 The project was developed with the intention to improve our knowledge about react,react native and also learn how to consume a third party api.
